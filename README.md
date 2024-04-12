@@ -1,16 +1,33 @@
-### Hi there U+1F0C2 
+### ✨ Hola, que bueno tenerte por aqui !👋
+¡Soy Ignacio!  Bienvenido a mi perfil de Github😉​.
+Soy un Data Scientist, con un gran interes en la ingenieria de datos y modelos de aprendizaje automatico. 
+Me apasiona aprovechar el poder de los datos para resolver problemas complejos e impulsar la innovación para tomar decisiones.
 
-<!--
-**IAIgnacioArce/IAIgnacioArce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Acerca de mi 👀​
+🌍 Soy de Argentina, precisamente de la provincia de Cordoba​❤️​
+👨‍💻 Estudio ingenieria en Sistemas y completé el bootcamp de la carrera de Data Science en Henry
+​⭐​ Actualmente, soy Teaching Assistant (TA) for students at Henry Bootcamp
+​🫶​ Me apasiona el trabajo en equipo , aprender y resolver problemas
+​​💡​ Continuamente enfocado en la creatividad e innovacion 
+🔍 Detallista e involucrado con cada proyecto y desafio que se me presente
 
-Here are some ideas to get you started:
+### Mis habilidades 🚀​
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻   Python||SQL
+
+📚   Pandas|| Numpy || Matplotlib || Seaborn|| Scikitlearn || FastAPI || Transmitido
+
+🛢   SQLServer || MySQL || BigQuery
+
+🔧   Docker || Apache Hadoop || Apache Hive || Apache Spark
+
+📊   Power BI || Tableau
+
+⚙️   GitHub || Jupyter || GoogleColab || VisualStudioCode || PyCharm
+
+### Contacto 👤​
+  📫 ignacioarce004@gmail.com
+  💼 www.linkedin.com/in/arceignacio
+
+
+
