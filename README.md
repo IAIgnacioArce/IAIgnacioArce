@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there U+1F0C2 
 
 <!--
 **IAIgnacioArce/IAIgnacioArce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
