@@ -15,7 +15,7 @@ Me apasiona aprovechar el poder de los datos para resolver problemas complejos e
 
 💻   Python||SQL
 
-📚   Pandas|| Numpy || Matplotlib || Seaborn|| Scikitlearn || FastAPI || Transmitido
+📚   Pandas|| Numpy || Matplotlib || Seaborn|| Scikitlearn || FastAPI || Streamlit 
 
 🛢   SQLServer || MySQL || BigQuery
 
